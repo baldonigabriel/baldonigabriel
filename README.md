@@ -62,8 +62,10 @@ Software Engineering student at **INATEL** (7th semester), building real-world m
 
 ## 📊 GitHub Stats
 
+![Profile Views](https://komarev.com/ghpvc/?username=baldonigabriel&color=2563EB&style=flat-square&label=Profile+Views)
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=baldonigabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=baldonigabriel&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baldonigabriel&layout=compact&theme=tokyonight&count_private=true" />
 </p>
 
