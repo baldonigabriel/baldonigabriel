@@ -57,7 +57,7 @@ Social Valorant tracker: syncs matches from the HenrikDev API on the server (Zod
 Team project at Inatel: a 20-case automated test suite for a REST API (positive, negative and edge cases) with a documented test plan. I set up the Jenkins job as code and its Docker Compose service: each build runs the tests behind a 90% coverage gate, packages a versioned build, publishes the reports through Nginx and e-mails the result.
 
 **🃏 [Pokecards Trading API](https://github.com/C14-INATEL/pokecards-trading-api)** · NestJS · Prisma · PostgreSQL · Jest · Docker · CircleCI
-REST API for wishlists, trade listings and proposals, built by a team of 4 and auto-deployed to Render. I built the trade-proposal module with **TDD** (CRUD and an accept flow that closes the trade and cancels the other pending proposals, 29 unit tests) and owned the test-and-coverage job of the CircleCI pipeline. [Swagger docs](https://pokecards-trades.onrender.com/docs)
+REST API for wishlists, trade listings and proposals, built by a team of 4 and auto-deployed to Render. I built the trade-proposal module with **TDD** (CRUD and an accept flow that closes the trade and cancels the other pending proposals, 29 unit tests) and owned the test-and-coverage job of the CircleCI pipeline.
 
 ## How I work
 
